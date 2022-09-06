@@ -1,0 +1,35 @@
+.imgContainer {
+    width:285px;
+    height:425px;
+    object-fit: cover
+}
+
+.btnStyle {
+    position: initial;
+    width: 318px;
+     height: 42px;
+    background-color: #4CAF50;
+    borderRadius:8px;
+    top:50%;
+    left:50%;
+}
+
+
+.image{
+        height: 500px;
+}
+
+.contain{
+   
+        top:23%;
+        left:0%;	
+
+}
+
+.moviePoster{
+  
+        width: 300px;
+         height: 300px;         
+        borderRadius:10px;
+
+}
